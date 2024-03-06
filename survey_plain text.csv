@@ -1,0 +1,857 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,country,Gender,Age,Career,Monthly Expense,Q1,Q17,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,List of Countries,What's your gender identity?,How old are you?,In which industry are you currently employed?,How much is your monthly expense?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,Which one would you purchase?,"(Optional) Do you have something on your mind?
+
+Feel open to share with us - you can leave your name here."
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RelevantIDDuplicate""}","{""ImportId"":""Q_RelevantIDDuplicateScore""}","{""ImportId"":""Q_RelevantIDFraudScore""}","{""ImportId"":""Q_RelevantIDLastStartDate"",""timeZone"":""UTC""}","{""ImportId"":""QID3""}","{""ImportId"":""QID2""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID37""}","{""ImportId"":""QID81""}","{""ImportId"":""QID39""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID71""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73""}","{""ImportId"":""QID84_TEXT""}"
+2024-02-27 19:04:41,2024-02-27 19:06:36,IP Address,172.56.193.46,100,115,True,2024-02-27 19:06:36,R_1Ma2nIr3lcinMnA,,,,,42.3973,-71.0372,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$601~$900,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","       $55 $49.5
+        (save 10%) ","             $89  ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",jhongzy@bu.edu
+2024-02-27 19:05:40,2024-02-27 19:06:58,IP Address,172.58.219.152,100,78,True,2024-02-27 19:06:59,R_5W187sdTiCZWzId,,,,,42.3562,-71.0631,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,801~$2,100","              $5 ","             $10 ","          $15 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $225  ","             $500  ",Please pick me
+2024-02-27 19:10:43,2024-02-27 19:12:27,IP Address,206.0.71.21,100,103,True,2024-02-27 19:12:28,R_60kL3VsVZPKlNpV,,,,,32.7908,-96.8336,anonymous,EN,,0,75,,United States of America,Female,25-34 years old,Student,"$1,201~$1,500","              $6 ","               $9 ","          $16 
+","          $40 ","             $50 ","             $89  ","             $100 ","            $225  ","             $500  ",
+2024-02-27 19:10:24,2024-02-27 19:12:48,IP Address,128.197.29.237,100,143,True,2024-02-27 19:12:49,R_3fJJiUXWFjtOUy4,,,,,42.3464,-71.0975,anonymous,EN,,0,10,,United States of America,Male,18-24 years old,Student,"$2,401~$2,700","        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+        (save $1.5) ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","             $99 ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",Some of the items are pretty beautiful & somes are pretty ugly lol
+2024-02-27 19:13:28,2024-02-27 19:16:12,IP Address,24.62.1.170,100,164,True,2024-02-27 19:16:12,R_528QrBx6jI6fxn2,,,,,42.2506,-71.1286,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"$2,701~$3,000","              $6 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+        (save 15%) ","             $100 ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 19:20:50,2024-02-27 19:22:26,IP Address,156.146.98.12,100,96,True,2024-02-27 19:22:27,R_5SHjvLCgwbXqCe5,,,,,42.3474,-71.1582,anonymous,EN,,0,35,,United States of America,Female,18-24 years old,Student,"$901~$1,200","              $5 ","               $9 ","          $15 
+","          $38 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+      (save $16.35) ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","             $525 ",
+2024-02-27 19:22:39,2024-02-27 19:23:56,IP Address,172.56.192.31,100,76,True,2024-02-27 19:23:56,R_5I5Y4DqZX4PerZG,,,,,42.3973,-71.0372,anonymous,EN,,0,0,,United States of America,Female,25-34 years old,Student,$301~$600,"              $6 ","               $9 ","          $16 
+","          $38 ","       $55 $49.5
+        (save 10%) ","             $89  ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 19:28:52,2024-02-27 19:30:56,IP Address,174.242.72.167,100,123,True,2024-02-27 19:30:57,R_1cMXOPXp0csTBol,,,,,42.3253,-71.0951,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,501~$1,800","              $6 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","            $109  ","              $90  ","            $225  ","             $525 ",dhruvds@bu.edu
+2024-02-27 19:35:47,2024-02-27 19:37:57,IP Address,104.28.39.130,100,129,True,2024-02-27 19:37:58,R_6YhuwszldWSFZ1r,,,,,42.312,-71.1081,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,201~$1,500","              $6 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","       $55 $49.5
+        (save 10%) ","             $99 ","             $100 ","     $275 $233.75
+      (save $41.25) ","             $525 ","Jishnu "
+2024-02-27 19:39:24,2024-02-27 19:41:22,IP Address,76.127.201.77,100,117,True,2024-02-27 19:41:22,R_1jTVoBoYt1xXzRP,,,,,42.2796,-71.1282,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"$1,201~$1,500","              $5 ","              $10 ","          $16 
+","          $38 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 19:49:10,2024-02-27 19:51:11,IP Address,73.89.159.184,100,121,True,2024-02-27 19:51:12,R_3GPT9zubrSFFWTJ,,,,,42.2506,-71.1286,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$0~$300,"              $5 ","             $10 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $89  ","              $90  ","     $275 $233.75
+      (save $41.25) ","       $550 $495 
+        (save 10%) ",ananya5@bu.edu
+2024-02-27 20:03:28,2024-02-27 20:05:56,IP Address,43.226.234.125,100,148,True,2024-02-27 20:05:57,R_4QO7RiA9OpLo5KV,,,,,23.9579,120.5747,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Information Technology (IT) and Telecommunications,$601~$900,"              $5 ","             $10 ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","             $100 ","            $225  ","       $550 $495
+        (save $55) ",bomzsbom0503@gmail.con
+2024-02-27 20:05:57,2024-02-27 20:08:51,IP Address,1.163.80.115,100,174,True,2024-02-27 20:08:52,R_4jBweVVclAwvkuS,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Other,$301~$600,"              $6 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $52 ","            $109  ","       $110 $104.5
+         (save $5.5) ","            $250 ","             $500  ",liujewel0305@gmail.con
+2024-02-27 20:21:26,2024-02-27 20:25:54,IP Address,1.162.138.230,100,268,True,2024-02-27 20:25:55,R_43ywPyvLoGQLHBX,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,"Professional, Scientific, and Technical Services",$301~$600,"        $5  $4.75
+      (save $0.25) ","               $9 ","          $15 
+","          $38 ","             $52 ","             $99 ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-27 20:27:17,2024-02-27 20:29:49,IP Address,73.68.2.182,100,152,True,2024-02-27 20:29:50,R_3PmEx01oOLUg6O8,,,,,42.3498,-71.0765,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Information Technology (IT) and Telecommunications,$601~$900,"              $6 ","              $10 ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $275  ","             $525 ",Priyanka Chaudhari
+2024-02-27 20:26:55,2024-02-27 20:30:09,IP Address,73.68.2.182,100,194,True,2024-02-27 20:30:09,R_7gNiVYvmpxylndS,,,,,42.3498,-71.0765,anonymous,EN,,0,0,,United States of America,Female,25-34 years old,Student,"$1,201~$1,500","              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $40 ","             $52 ","             $89  ","       $110 $104.5
+         (save $5.5) ","            $225  ","             $525 ",Gaurangi
+2024-02-27 20:31:48,2024-02-27 20:33:55,IP Address,73.38.238.189,100,127,True,2024-02-27 20:33:56,R_333LkKbYC0qJ3rP,,,,,42.2796,-71.1282,anonymous,EN,,0,0,,United States of America,Male,25-34 years old,Student,$301~$600,"              $6 ","               $9 ","          $15 
+","          $36 ","             $50 ","             $89  ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",Setu
+2024-02-27 20:53:58,2024-02-27 20:57:58,IP Address,49.229.202.62,100,239,True,2024-02-27 20:57:58,R_4ceSoZA6kWDcZYR,,,,,13.7063,100.4597,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Other,$601~$900,"              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","             $100 ","            $225  ","             $525 ",Lauren
+2024-02-27 21:28:12,2024-02-27 21:29:53,IP Address,76.127.201.77,100,100,True,2024-02-27 21:29:53,R_1xW6NDQqe2g6IxT,,,,,42.2796,-71.1282,anonymous,EN,,0,0,,United States of America,Female,25-34 years old,Student,"$901~$1,200","              $6 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","          $40 ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",Rajashree
+2024-02-27 21:53:47,2024-02-27 21:56:21,IP Address,128.197.29.225,100,153,True,2024-02-27 21:56:22,R_66qYk8buouQBPyx,,,,,42.3464,-71.0975,anonymous,EN,,0,10,,United States of America,Female,25-34 years old,Student,"$1,201~$1,500","              $5 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $40 ","             $55 ","             $99 ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",jassica4@bu.edu
+2024-02-27 21:58:04,2024-02-27 22:01:04,IP Address,101.10.106.79,100,180,True,2024-02-27 22:01:05,R_4PTWgPJgRzOrjGb,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,"Marketing, Advertising, and Public Relations",$301~$600,"              $6 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $52 ","             $89  ","              $90  ","            $225  ","             $525 ",
+2024-02-27 22:11:57,2024-02-27 22:15:00,IP Address,73.47.27.71,100,182,True,2024-02-27 22:15:01,R_3PYtugPn4wLavd2,,,,,42.3399,-71.1245,anonymous,EN,,0,10,,United States of America,Female,25-34 years old,Student,"$901~$1,200","              $6 ","         $10  $8.5 
+        (save $1.5) ","          $17 
+","          $38 ","             $50 ","            $109  ","             $100 ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-27 22:14:44,2024-02-27 22:16:19,IP Address,71.235.135.60,100,95,True,2024-02-27 22:16:20,R_1ous8wjd2IzHmxC,,,,,42.3399,-71.1245,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$301~$600,"              $5 ","              $10 ","          $17 
+","          $38 ","             $52 ","             $99 ","              $90  ","            $225  ","             $500  ",No
+2024-02-27 22:16:08,2024-02-27 22:17:59,IP Address,71.232.25.76,100,111,True,2024-02-27 22:17:59,R_5KrmHfeM6EIvVzd,,,,,42.3474,-71.1582,anonymous,EN,,0,10,,United States of America,Male,25-34 years old,Student,"Above $3,000","        $5  $4.75
+      (save $0.25) ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","            $109  ","        $110 $104.5
+           (save 5%) ","            $250 ","             $500  ",
+2024-02-27 22:16:07,2024-02-27 22:18:12,IP Address,174.168.234.247,100,125,True,2024-02-27 22:18:13,R_1nNQgDHac2QDqTx,,,,,42.3474,-71.1582,anonymous,EN,,0,10,,United States of America,Male,18-24 years old,Student,"$901~$1,200","        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $40 ","             $52 ","            $109  ","       $110 $104.5
+         (save $5.5) ","            $250 ","             $500  ",
+2024-02-27 22:18:11,2024-02-27 22:20:02,IP Address,42.79.163.148,100,111,True,2024-02-27 22:20:03,R_4rYGRCEZdioLtGV,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Healthcare and Social Assistance,"$901~$1,200","              $5 ","               $9 ","          $16 
+","          $40 ","             $52 ","             $99 ","             $110  ","            $225  ","             $525 ",
+2024-02-27 22:18:22,2024-02-27 22:20:59,IP Address,73.234.100.232,100,156,True,2024-02-27 22:20:59,R_5ziHLx1biGNYffv,,,,,42.3498,-71.0765,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,"Arts, Entertainment, and Recreation",$601~$900,"              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","       $55 $49.5
+        (save 10%) ","             $89  ","        $110 $104.5
+           (save 5%) ","            $275  ","             $525 ",
+2024-02-27 22:21:56,2024-02-27 22:23:35,IP Address,101.10.64.59,100,99,True,2024-02-27 22:23:36,R_4tx92I31Ba4EnNP,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Healthcare and Social Assistance,$601~$900,"              $6 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","          $40 ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","            $250 ","       $550 $495
+        (save $55) ",
+2024-02-27 22:25:51,2024-02-27 22:27:11,IP Address,73.38.238.189,100,79,True,2024-02-27 22:27:11,R_6FgocIWokr3mDS4,,,,,42.2796,-71.1282,anonymous,EN,,0,0,,United States of America,Male,25-34 years old,Student,"$1,201~$1,500","              $6 ","               $9 ","          $17 
+","          $40 ","             $50 ","            $109  ","             $110  ","            $225  ","             $500  ",NA
+2024-02-27 22:25:49,2024-02-27 22:28:28,IP Address,38.42.196.105,100,159,True,2024-02-27 22:28:29,R_17Jd1NLEeuL6nR1,,,,,42.3634,-71.0713,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"$1,501~$1,800","        $5  $4.75
+      (save $0.25) ","              $10 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","       $55 $49.5
+        (save 10%) ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $225  ","          $550  ",
+2024-02-27 22:31:38,2024-02-27 22:34:00,IP Address,73.249.246.194,100,142,True,2024-02-27 22:34:01,R_37BalVWiJrQlEwB,,,,,42.2796,-71.1282,anonymous,EN,,0,5,,India,Male,18-24 years old,Student,"$1,501~$1,800","              $6 ","               $9 ","          $15 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $225  ","             $525 ",Dylan
+2024-02-27 22:34:55,2024-02-27 22:36:34,IP Address,24.63.77.59,100,99,True,2024-02-27 22:36:35,R_5Nazp5oXN0pVoIr,,,,,42.3474,-71.1582,anonymous,EN,,0,5,,United States of America,Male,18-24 years old,Student,"Above $3,000","              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","             $99 ","              $90  ","            $225  ","             $500  ",
+2024-02-27 22:43:25,2024-02-27 22:45:26,IP Address,38.42.201.206,100,121,True,2024-02-27 22:45:26,R_3pVHADMMdEUPYTn,,,,,42.3464,-71.0975,anonymous,EN,,0,5,,United States of America,Male,25-34 years old,Energy and Utilities,"Above $3,000","              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $250 ","             $525 ",Sulaiman
+2024-02-27 22:14:37,2024-02-27 22:48:39,IP Address,1.200.32.98,100,2041,True,2024-02-27 22:48:40,R_4Q6jqAeZKMaoiPN,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Information Technology (IT) and Telecommunications,"$1,501~$1,800","              $5 ","               $9 ","          $15 
+","          $40 ","             $50 ","             $99 ","             $100 ","            $250 ","             $525 ",
+2024-02-27 22:48:29,2024-02-27 22:51:45,IP Address,42.79.114.120,100,196,True,2024-02-27 22:51:45,R_4nVZvMYa9ZuSr4k,,,,,24.9614,121.2437,anonymous,EN,,0,0,,Taiwan,Male,55-64 years old,Manufacturing,"Above $3,000","        $5  $4.75 
+      (save 5%) ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","            $109  ","        $110 $104.5
+           (save 5%) ","            $275  ","       $550 $495
+        (save $55) ",Andy
+2024-02-27 22:54:33,2024-02-27 22:56:54,IP Address,101.12.29.27,100,140,True,2024-02-27 22:56:54,R_4chRKYJobRKeenD,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Education,$601~$900,"              $5 ","               $9 ","          $17 
+","          $40 ","             $52 ","             $99 ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 22:55:12,2024-02-27 22:58:32,IP Address,36.224.200.39,100,200,True,2024-02-27 22:58:33,R_4iQr315RqPB4y3l,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Education,"$901~$1,200","              $5 ","             $10 ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","             $110  ","            $250 ","             $525 ",陳冠綸
+2024-02-27 23:00:40,2024-02-27 23:03:18,IP Address,140.123.90.91,100,157,True,2024-02-27 23:03:19,R_4dyTiaIwm3anc6E,,,,,23.4461,120.5728,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Student,$0~$300,"              $6 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","          $38 ","             $52 ","             $89  ","        $110 $104.5
+           (save 5%) ","            $225  ","             $500  ",猜猜我是誰 笑死
+2024-02-27 23:06:30,2024-02-27 23:09:53,IP Address,39.12.144.116,100,203,True,2024-02-27 23:09:53,R_47UonfH9XZKydbP,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Male,45-54 years old,"Professional, Scientific, and Technical Services","Above $3,000","              $5 ","               $9 ","          $16 
+","          $36 ","             $50 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-27 23:18:34,2024-02-27 23:20:37,IP Address,118.233.192.196,100,122,True,2024-02-27 23:20:38,R_4kU2hbGvILzmf6B,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Information Technology (IT) and Telecommunications,$301~$600,"              $6 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+        (save 15%) ","       $110 $104.5
+         (save $5.5) ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 23:19:09,2024-02-27 23:22:09,IP Address,76.146.201.217,100,180,True,2024-02-27 23:22:10,R_1QLkibkWOtJyRNL,,,,,47.7346,-122.3479,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,"Professional, Scientific, and Technical Services","$1,501~$1,800","              $5 ","              $10 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","            $250 ","             $525 ","Makayla "
+2024-02-27 23:32:27,2024-02-27 23:44:02,IP Address,49.217.124.177,100,694,True,2024-02-27 23:44:03,R_4dMWo8hWdWgTVCx,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Healthcare and Social Assistance,"$901~$1,200","              $5 ","               $9 ","          $16 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","             $110  ","            $250 ","          $550  ",Vicky
+2024-02-27 23:49:16,2024-02-27 23:53:24,IP Address,124.78.68.85,100,247,True,2024-02-27 23:53:24,R_7aK1Fc1VkmgYNqC,,,,,31.2222,121.4581,qr,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"$901~$1,200","              $6 ","              $10 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+        (save 15%) ","              $90  ","            $275  ","             $525 ",
+2024-02-27 23:49:14,2024-02-27 23:54:01,IP Address,42.73.25.122,100,286,True,2024-02-27 23:54:01,R_4eL6FTvarnAuhcB,,,,,24.9614,121.2437,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,$0~$300,"              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $38 ","             $52 ","             $99 ","             $100 ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-27 23:51:40,2024-02-27 23:54:11,IP Address,99.32.21.111,100,151,True,2024-02-27 23:54:11,R_3WvuKIU1ZdKTASh,,,,,42.0311,-87.6858,qr,EN,,0,5,,United States of America,Male,18-24 years old,Information Technology (IT) and Telecommunications,"$2,401~$2,700","              $5 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $89  ","             $100 ","            $250 ","       $550 $495
+        (save $55) ",sky
+2024-02-27 23:52:46,2024-02-27 23:54:53,IP Address,146.115.91.69,100,126,True,2024-02-27 23:54:53,R_7T7PXlma6qWgSWZ,,,,,42.3634,-71.0713,anonymous,EN,,0,5,,United States of America,Male,18-24 years old,Student,"$2,701~$3,000","              $5 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+      (save $16.35) ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","             $500  ",boyuan chen
+2024-02-27 23:53:13,2024-02-27 23:55:25,IP Address,223.137.64.43,100,132,True,2024-02-27 23:55:26,R_4V8AaVMTapS2UHg,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Other,"$1,501~$1,800","        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+         (save 15%) ","          $16 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-27 23:55:19,2024-02-27 23:59:53,IP Address,111.71.101.34,100,274,True,2024-02-27 23:59:54,R_4Rfk8PhHPzXq4xv,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Student,$601~$900,"              $5 ","               $9 ","          $15 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $89  ","        $110 $104.5
+           (save 5%) ","     $275 $233.75
+      (save $41.25) ","             $500  ",
+2024-02-27 23:56:51,2024-02-28 00:00:48,IP Address,49.217.125.169,100,237,True,2024-02-28 00:00:49,R_4D3da6Cx8LkXdy9,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Male,35-44 years old,Education,$0~$300,"              $5 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $52 ","             $89  ","              $90  ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-27 23:58:34,2024-02-28 00:01:45,IP Address,141.84.69.95,100,190,True,2024-02-28 00:01:45,R_3Drn79NM3PxnWsp,,,,,48.172,11.5907,anonymous,EN,,0,35,,Germany,Male,18-24 years old,Student,$601~$900,"        $5  $4.75
+      (save $0.25) ","              $10 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","             $52 ","             $99 ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 00:06:09,2024-02-28 00:09:03,IP Address,180.162.47.1,100,173,True,2024-02-28 00:09:03,R_5NzeN09YlFx5u4X,,,,,31.2222,121.4581,anonymous,EN,,0,0,,China,Female,25-34 years old,Other,"$901~$1,200","        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+        (save $1.5) ","          $17 
+","          $36 ","             $50 ","             $89  ","              $90  ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",I wanna save what I can save but. not loose my appetite -Fany
+2024-02-28 00:06:22,2024-02-28 00:11:56,IP Address,96.49.198.216,100,333,True,2024-02-28 00:11:56,R_3dybNu85FWmuCDR,,,,,49.2155,-123.1427,anonymous,EN,,0,10,,Canada,Female,25-34 years old,Student,"$1,201~$1,500","              $5 ","         $10  $8.5 
+         (save 15%) ","          $16 
+","      $38 $36.1 
+      (save 5%) ","        $55 $49.5
+        (save $5.5) ","             $99 ","        $110 $104.5
+           (save 5%) ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 00:14:03,2024-02-28 00:16:32,IP Address,117.152.218.163,100,149,True,2024-02-28 00:16:33,R_4WGdKtygNIjA0Q9,,,,,30.589,114.2681,qr,EN,,0,0,,China,Male,25-34 years old,Student,$301~$600,"              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $36 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+        (save 15%) ","             $100 ","            $275  ","             $525 ",
+2024-02-28 00:11:45,2024-02-28 00:18:32,IP Address,123.193.176.235,100,407,True,2024-02-28 00:18:33,R_4aTLV9OGrzNQZYR,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Information Technology (IT) and Telecommunications,"$1,201~$1,500","        $5  $4.75 
+      (save 5%) ","              $10 ","          $16 
+","          $36 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $275  ","             $525 ",
+2024-02-28 00:20:40,2024-02-28 00:24:09,IP Address,39.144.104.233,100,209,True,2024-02-28 00:24:10,R_4WZMSu0Aj7Sknxc,,,,,31.2222,121.4581,qr,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"$901~$1,200","        $5  $4.75
+      (save $0.25) ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","      $109 $92.65
+        (save 15%) ","              $90  ","      $275 $233.75
+        (save 15%) ","             $525 ",你好，我是来自中国的BigHead，希望下次出中文版本，靴靴。
+2024-02-28 00:20:35,2024-02-28 00:26:19,IP Address,42.72.106.249,100,344,True,2024-02-28 00:26:20,R_47Wylv4u7I6MiBz,,,,,24.9614,121.2437,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,"Professional, Scientific, and Technical Services",$0~$300,"        $5  $4.75 
+      (save 5%) ","               $9 ","          $15 
+","          $40 ","             $52 ","             $99 ","              $90  ","            $250 ","       $550 $495
+        (save $55) ",
+2024-02-28 00:28:05,2024-02-28 00:30:56,IP Address,47.41.134.16,100,171,True,2024-02-28 00:30:56,R_1bVGy3bOLnZy6AG,,,,,43.0684,-89.4293,anonymous,EN,,0,5,,United States of America,Female,25-34 years old,"Professional, Scientific, and Technical Services","$2,701~$3,000","              $6 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","       $55 $49.5
+        (save 10%) ","             $89  ","        $110 $104.5
+           (save 5%) ","            $225  ","             $500  ",
+2024-02-28 00:27:26,2024-02-28 00:31:03,IP Address,42.73.156.225,100,216,True,2024-02-28 00:31:04,R_4MtqeHU3GQJMsdr,,,,,24.9614,121.2437,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Government and Public Administration,$0~$300,"              $6 ","               $9 ","          $15 
+","          $40 ","        $55 $49.5
+        (save $5.5) ","            $109  ","             $110  ","            $250 ","             $525 ",
+2024-02-28 00:31:47,2024-02-28 00:33:55,IP Address,110.28.56.182,100,128,True,2024-02-28 00:33:55,R_4jGMkEljWINSeL7,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Information Technology (IT) and Telecommunications,$301~$600,"              $5 ","               $9 ","          $15 
+","          $38 ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $250 ","       $550 $495
+        (save $55) ",
+2024-02-28 00:48:20,2024-02-28 00:50:27,IP Address,42.72.59.171,100,126,True,2024-02-28 00:50:27,R_4VBB4952sr0OzMR,,,,,24.9889,121.3176,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Education,"$1,501~$1,800","        $5  $4.75
+      (save $0.25) ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $38 ","        $55 $49.5
+        (save $5.5) ","             $99 ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 00:54:57,2024-02-28 00:58:05,IP Address,66.116.126.193,100,187,True,2024-02-28 00:58:05,R_34buwhFSCqHmPD3,,,,,36.0861,-115.2541,anonymous,EN,,0,80,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"$1,201~$1,500","              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $55 ","             $99 ","             $100 ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-28 01:07:42,2024-02-28 01:11:09,IP Address,223.104.67.235,100,207,True,2024-02-28 01:11:10,R_4Mo3Z7hvqS1Gh9f,,,,,23.1181,113.2539,anonymous,EN,,0,0,,China,Male,18-24 years old,Other,"$1,801~$2,100","              $5 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $99 ","             $110  ","            $250 ","             $500  ",
+2024-02-28 01:07:29,2024-02-28 01:12:21,IP Address,42.73.17.225,100,292,True,2024-02-28 01:12:22,R_4jwRwzCisfSYhgV,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,55-64 years old,Manufacturing,"Above $3,000","              $6 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","            $109  ","             $100 ","            $250 ","       $550 $495 
+        (save 10%) ",
+2024-02-28 01:12:18,2024-02-28 01:16:17,IP Address,180.217.235.52,100,238,True,2024-02-28 01:16:18,R_4fHPQyqN8JklSrj,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Other,"$901~$1,200","        $5  $4.75
+      (save $0.25) ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $36 ","             $50 ","             $99 ","              $90  ","            $225  ","             $525 ",
+2024-02-28 01:21:13,2024-02-28 01:26:37,IP Address,103.47.100.206,100,323,True,2024-02-28 01:26:38,R_4C8bnpNlPt5O47l,,,,,1.2868,103.8503,anonymous,EN,,0,25,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"Above $3,000","              $5 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","             $52 ","      $109 $92.65
+      (save $16.35) ","        $110 $104.5
+           (save 5%) ","            $250 ","       $550 $495
+        (save $55) ",
+2024-02-28 01:23:35,2024-02-28 01:27:02,IP Address,39.9.138.147,100,207,True,2024-02-28 01:27:03,R_4rIhHILABiWyO3B,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Male,18-24 years old,Student,$301~$600,"              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $38 ","             $50 ","            $109  ","             $110  ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-28 01:36:00,2024-02-28 01:39:27,IP Address,111.242.5.227,100,207,True,2024-02-28 01:39:28,R_4Tf9qr95qfrtYvD,,,,,23.4815,120.4498,anonymous,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"Above $3,000","        $5  $4.75
+      (save $0.25) ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+        (save 15%) ","        $110 $104.5
+           (save 5%) ","     $275 $233.75
+      (save $41.25) ","             $500  ",
+2024-02-28 01:32:04,2024-02-28 01:44:37,IP Address,124.127.17.205,100,752,True,2024-02-28 01:44:38,R_4EkS1yCJKjFq3gR,,,,,39.911,116.395,anonymous,EN,,0,0,,China,Male,35-44 years old,Information Technology (IT) and Telecommunications,"Above $3,000","              $5 ","              $10 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","       $550 $495 
+        (save 10%) ","small price difference for goods, price is not the main factor"
+2024-02-28 01:42:26,2024-02-28 01:45:13,IP Address,101.10.56.242,100,167,True,2024-02-28 01:45:14,R_4xiwMoDytixhj2N,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,"Marketing, Advertising, and Public Relations",$301~$600,"              $5 ","             $10 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","      $109 $92.65
+      (save $16.35) ","             $100 ","     $275 $233.75
+      (save $41.25) ","             $525 ",
+2024-02-28 01:50:38,2024-02-28 01:53:27,IP Address,59.102.238.213,100,168,True,2024-02-28 01:53:27,R_4vFoBQhx1GzhM2t,,,,,24.673,121.1614,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,$301~$600,"              $6 ","               $9 ","          $15 
+","          $38 ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+        (save 15%) ","              $90  ","            $250 ","       $550 $495 
+        (save 10%) ",
+2024-02-28 02:35:08,2024-02-28 02:41:23,IP Address,223.136.121.112,100,375,True,2024-02-28 02:41:24,R_49vrpKqkHfBC5KN,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,"Marketing, Advertising, and Public Relations",$601~$900,"        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $55 ","             $99 ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","             $500  ",I prefer the style over the price - even with discount
+2024-02-28 02:44:43,2024-02-28 02:47:50,IP Address,1.200.24.175,100,186,True,2024-02-28 02:47:50,R_4fdP4KuoG5bKK1x,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Male,18-24 years old,Unemployed,$301~$600,"              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","      $109 $92.65
+        (save 15%) ","             $100 ","            $225  ","             $525 ",
+2024-02-28 03:18:32,2024-02-28 03:20:33,IP Address,164.132.224.45,100,121,True,2024-02-28 03:20:34,R_6RcYLeC2R5GVdAt,,,,,48.8582,2.3387,anonymous,EN,,0,55,,China,Female,25-34 years old,Manufacturing,$301~$600,"              $6 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","       $55 $49.5
+        (save 10%) ","             $89  ","              $90  ","      $275 $233.75
+        (save 15%) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 03:33:21,2024-02-28 03:35:07,IP Address,36.230.181.140,100,105,True,2024-02-28 03:35:07,R_4jW1BhiJiOTny06,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Retail Trade,$301~$600,"        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+         (save 15%) ","          $17 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $250 ","             $525 ",
+2024-02-28 03:33:38,2024-02-28 03:35:44,IP Address,111.183.126.176,100,125,True,2024-02-28 03:35:44,R_7fkpjsvBLZUjSpj,,,,,30.589,114.2681,anonymous,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,$301~$600,"              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $275  ","             $525 ",
+2024-02-28 03:35:36,2024-02-28 03:38:25,IP Address,42.75.1.41,100,169,True,2024-02-28 03:38:26,R_4aJDQQTFQI7zm9f,,,,,22.6148,120.3139,anonymous,EN,,0,0,,Taiwan,Male,55-64 years old,Energy and Utilities,"$1,501~$1,800","              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $36 ","             $52 ","             $89  ","              $90  ","            $225  ","             $525 ",Oliver
+2024-02-28 03:58:44,2024-02-28 04:01:19,IP Address,38.42.194.185,100,154,True,2024-02-28 04:01:20,R_5SHb6Px7hdRY3mT,,,,,42.3399,-71.1245,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"Above $3,000","              $6 ","               $9 ","          $15 
+","          $38 ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","            $250 ","             $525 ",
+2024-02-28 04:10:54,2024-02-28 04:22:35,IP Address,220.196.193.38,100,701,True,2024-02-28 04:22:36,R_4jxBfu5e7op0tMt,,,,,31.2222,121.4581,anonymous,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,$601~$900,"        $5  $4.75
+      (save $0.25) ","             $10 ","          $15 
+","          $38 ","             $52 ","      $109 $92.65
+        (save 15%) ","              $90  ","            $275  ","             $525 ",
+2024-02-28 05:08:18,2024-02-28 05:11:08,IP Address,223.137.150.70,100,170,True,2024-02-28 05:11:08,R_4DhqAr4jIZg2MF3,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Healthcare and Social Assistance,"$901~$1,200","              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ",None.
+2024-02-28 00:15:36,2024-02-28 05:24:22,IP Address,126.28.80.134,100,18525,True,2024-02-28 05:24:23,R_4eKmqbVBALSoUxO,,,,,34.6922,135.1816,anonymous,EN,,0,0,,Japan,Male,35-44 years old,Retail Trade,"$2,401~$2,700","              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","      $109 $92.65
+      (save $16.35) ","        $110 $104.5
+           (save 5%) ","            $225  ","             $525 ",
+2024-02-28 05:47:17,2024-02-28 05:49:52,IP Address,172.56.198.244,100,154,True,2024-02-28 05:49:53,R_6GmBQ6iPAugabwB,,,,,42.415,-71.0527,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,501~$1,800","              $5 ","               $9 ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","            $109  ","             $110  ","            $250 ","             $525 ",yranawat@bu.edu
+2024-02-28 06:00:44,2024-02-28 06:02:24,IP Address,128.197.29.249,100,99,True,2024-02-28 06:02:25,R_6udP9bLRUsr167f,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"Above $3,000","              $6 ","               $9 ","          $15 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+      (save $16.35) ","       $110 $104.5
+         (save $5.5) ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-28 06:29:54,2024-02-28 06:32:17,IP Address,36.227.216.13,100,142,True,2024-02-28 06:32:18,R_40opR86fXfxDCO9,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Healthcare and Social Assistance,"$1,501~$1,800","              $5 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","             $55 ","             $99 ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","             $525 ",Weiyu
+2024-02-28 06:33:05,2024-02-28 06:36:51,IP Address,116.241.164.217,100,226,True,2024-02-28 06:36:52,R_4R84tzbDNgC6LwT,,,,,22.9917,120.2148,anonymous,EN,,0,0,,Taiwan,Male,45-54 years old,Education,"$2,701~$3,000","              $6 ","              $10 ","          $15 
+","          $38 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+        (save 15%) ","             $110  ","            $275  ","       $550 $495 
+        (save 10%) ",NO
+2024-02-28 06:40:10,2024-02-28 06:42:15,IP Address,76.118.40.227,100,125,True,2024-02-28 06:42:16,R_3dY3z6jvIWubCKL,,,,,42.3399,-71.1245,anonymous,EN,,0,10,,United States of America,Female,18-24 years old,Student,"Above $3,000","              $6 ","             $10 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","      $109 $92.65
+      (save $16.35) ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 06:40:13,2024-02-28 06:43:32,IP Address,123.195.46.218,100,198,True,2024-02-28 06:43:33,R_4EQ3WV7QaJWp6tU,,,,,24.8065,120.9706,anonymous,EN,,0,5,,Taiwan,Male,55-64 years old,Education,"Above $3,000","              $5 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 06:45:06,2024-02-28 06:50:13,IP Address,49.216.41.171,100,306,True,2024-02-28 06:50:13,R_4EYWv5m0p0viYfT,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,"$1,801~$2,100","              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-28 06:50:50,2024-02-28 06:55:23,IP Address,65.75.220.58,100,272,True,2024-02-28 06:55:23,R_7FRm8nUQCdFM6wB,,,,,37.2379,-121.7946,anonymous,EN,,0,105,,China,Female,18-24 years old,Student,$301~$600,"              $6 ","               $9 ","          $17 
+","          $38 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $225  ","             $525 ",Celine
+2024-02-28 06:49:55,2024-02-28 06:59:19,IP Address,42.73.4.102,100,563,True,2024-02-28 06:59:19,R_4dz1coVzOMwo1My,,,,,24.9259,121.2763,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,"Above $3,000","              $5 ","               $9 ","          $15 
+","          $40 ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $250 ","             $525 ",
+2024-02-28 06:59:07,2024-02-28 07:02:08,IP Address,172.56.192.218,100,180,True,2024-02-28 07:02:08,R_6z47VIdQNDUPkNb,,,,,42.3973,-71.0372,anonymous,EN,,0,10,,United States of America,Female,25-34 years old,Student,$301~$600,"              $5 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $38 ","             $52 ","             $89  ","              $90  ","            $250 ","       $550 $495
+        (save $55) ",Kelsey
+2024-02-28 07:03:38,2024-02-28 07:06:27,IP Address,180.217.229.66,100,169,True,2024-02-28 07:06:28,R_4ASb7hzZvnsBUfo,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Student,$0~$300,"        $5  $4.75 
+      (save 5%) ","               $9 ","          $16 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","             $99 ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",Nope
+2024-02-28 06:58:53,2024-02-28 07:09:54,IP Address,112.207.108.78,100,660,True,2024-02-28 07:09:55,R_4yeLnK9HMKqUaOO,,,,,14.5053,121.0181,anonymous,EN,,0,0,,Philippines,Female,18-24 years old,Student,$301~$600,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","       $55 $49.5
+        (save 10%) ","             $89  ","       $110 $104.5
+         (save $5.5) ","            $250 ","             $525 ",none
+2024-02-28 07:14:09,2024-02-28 07:16:53,IP Address,49.216.26.135,100,164,True,2024-02-28 07:16:54,R_4VBCrqEYROIcoWp,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,35-44 years old,Education,"$1,201~$1,500","              $6 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","             $55 ","            $109  ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","             $500  ",Ag
+2024-02-28 07:13:37,2024-02-28 07:17:14,IP Address,49.216.128.46,100,217,True,2024-02-28 07:17:15,R_4ONDo4HdXlnRsjE,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Male,35-44 years old,Information Technology (IT) and Telecommunications,$301~$600,"              $6 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+      (save 10%) 
+","          $40 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","            $250 ","             $525 ",
+2024-02-28 07:18:52,2024-02-28 07:21:32,IP Address,103.91.141.16,100,159,True,2024-02-28 07:21:32,R_4Fxhq3yU8pBP2IV,,,,,14.3269,120.9336,anonymous,EN,,0,0,,Philippines,Female,18-24 years old,Student,$0~$300,"        $5  $4.75
+      (save $0.25) ","              $10 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $89  ","              $90  ","            $225  ","             $500  ",
+2024-02-28 07:20:25,2024-02-28 07:22:05,IP Address,128.197.29.249,100,99,True,2024-02-28 07:22:05,R_6Miu1j3sIB2wlnr,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$2,701~$3,000","              $5 ","             $10 ","          $17 
+","          $36 ","             $50 ","      $109 $92.65
+        (save 15%) ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",Zack
+2024-02-28 07:10:55,2024-02-28 07:23:23,IP Address,223.137.239.118,100,747,True,2024-02-28 07:23:24,R_4bHzXCj1SN0GJtT,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,"Professional, Scientific, and Technical Services",$601~$900,"              $6 ","              $10 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","            $109  ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 07:22:11,2024-02-28 07:24:04,IP Address,158.62.5.136,100,112,True,2024-02-28 07:24:05,R_4DqMDNdKaMgZFL5,,,,,14.0727,120.6228,anonymous,EN,,0,0,,Philippines,Genderqueer,18-24 years old,Student,$0~$300,"              $5 ","             $10 ","          $15 
+","          $36 ","             $55 ","      $109 $92.65
+        (save 15%) ","             $110  ","            $275  ","             $525 ",
+2024-02-28 07:24:20,2024-02-28 07:26:50,IP Address,106.64.24.7,100,150,True,2024-02-28 07:26:50,R_43gKaisJqH5PPCF,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,"Professional, Scientific, and Technical Services","$1,501~$1,800","              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","      $109 $92.65
+      (save $16.35) ","       $110 $104.5
+         (save $5.5) ","            $250 ","       $550 $495 
+        (save 10%) ",
+2024-02-28 07:31:42,2024-02-28 07:39:19,IP Address,123.195.57.75,100,457,True,2024-02-28 07:39:21,R_49zpwTSS7athlyF,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Male,45-54 years old,Education,"$901~$1,200","              $6 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+     (save $1.9) ","        $55 $49.5
+        (save $5.5) ","             $99 ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 07:41:30,2024-02-28 07:47:00,IP Address,1.200.29.203,100,329,True,2024-02-28 07:47:01,R_4K3F2Tu3HPV7VGW,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Information Technology (IT) and Telecommunications,$601~$900,"              $6 ","             $10 ","          $15 
+","          $36 ","             $52 ","      $109 $92.65
+      (save $16.35) ","             $110  ","            $225  ","             $525 ",
+2024-02-28 07:44:53,2024-02-28 07:48:06,IP Address,123.194.42.209,100,193,True,2024-02-28 07:48:07,R_4i9d7wvIcO1KXT5,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Other,"$901~$1,200","              $5 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $50 ","             $99 ","              $90  ","            $225  ","             $500  ",Kai Lin
+2024-02-28 07:49:33,2024-02-28 07:51:22,IP Address,128.197.29.247,100,108,True,2024-02-28 07:51:23,R_5KlstAoV7h1LDln,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$301~$600,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","              $90  ","            $225  ","             $525 ",
+2024-02-28 07:51:39,2024-02-28 07:55:30,IP Address,42.73.168.57,100,230,True,2024-02-28 07:55:30,R_4I6lkDnjHOZBkil,,,,,24.9614,121.2437,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Information Technology (IT) and Telecommunications,$301~$600,"              $5 ","               $9 ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 07:57:31,2024-02-28 08:00:20,IP Address,111.240.108.220,100,168,True,2024-02-28 08:00:21,R_4f1wxsf0vHyuq1q,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Manufacturing,"$1,501~$1,800","        $5  $4.75 
+      (save 5%) ","               $9 ","          $17 
+","          $40 ","             $52 ","            $109  ","             $100 ","            $250 ","             $525 ",
+2024-02-28 07:58:25,2024-02-28 08:00:40,IP Address,101.10.95.4,100,134,True,2024-02-28 08:00:40,R_4t2PXK5G3UCvzwL,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Education,"$2,101~$2,400","        $5  $4.75
+      (save $0.25) ","             $10 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $89  ","             $100 ","            $250 ","       $550 $495
+        (save $55) ",小瑀
+2024-02-28 08:00:19,2024-02-28 08:03:55,IP Address,42.79.25.58,100,216,True,2024-02-28 08:03:55,R_4M3ui3COCpQdAjU,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Information Technology (IT) and Telecommunications,$601~$900,"              $5 ","               $9 ","          $15 
+","          $36 ","             $52 ","             $99 ","              $90  ","            $275  ","             $525 ",
+2024-02-28 08:04:37,2024-02-28 08:12:22,IP Address,101.12.46.164,100,465,True,2024-02-28 08:12:23,R_4SI9dgByWKx1rr6,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,"$1,501~$1,800","              $6 ","             $10 ","          $16 
+","          $40 ","             $50 ","             $89  ","              $90  ","            $250 ","             $500  ",roro
+2024-02-28 08:30:30,2024-02-28 08:35:34,IP Address,112.1.169.71,100,304,True,2024-02-28 08:35:35,R_479ARxXArOCXy2a,,,,,31.3093,120.602,anonymous,EN,,0,0,,China,Male,25-34 years old,Information Technology (IT) and Telecommunications,"$2,401~$2,700","              $6 ","             $10 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $50 ","      $109 $92.65
+        (save 15%) ","             $100 ","            $250 ","             $525 ",U总我是世鸿！你们是在测试折扣文案的效果吗？但是我个人而言第一眼看到的都是在对比不同商品的图片，因为价格我只是在对比出好看的图片好，才会去注意价格
+2024-02-28 07:05:20,2024-02-28 08:56:59,IP Address,118.160.141.35,100,6698,True,2024-02-28 08:57:00,R_4ey8vRtLXUeFtJ5,,,,,24.8351,121.0056,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Manufacturing,"$2,701~$3,000","              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $38 ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $275  ","             $525 ",
+2024-02-28 09:07:26,2024-02-28 09:09:02,IP Address,172.56.196.11,100,95,True,2024-02-28 09:09:03,R_50MMMWseduHBrmc,,,,,42.3531,-71.0958,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,801~$2,100","              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $99 ","              $90  ","            $250 ","             $500  ",
+2024-02-28 09:23:30,2024-02-28 09:26:27,IP Address,172.56.192.101,100,177,True,2024-02-28 09:26:28,R_7S140ztAzcAM2zg,,,,,42.3973,-71.0372,anonymous,EN,,0,10,,United States of America,Female,18-24 years old,Student,$301~$600,"              $5 ","               $9 ","          $15 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $89  ","             $100 ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-28 09:32:54,2024-02-28 09:34:22,IP Address,71.172.46.31,100,88,True,2024-02-28 09:34:23,R_3lsQ50d3n9I3FBU,,,,,40.734,-74.0712,anonymous,EN,,0,0,,United States of America,Female,25-34 years old,"Marketing, Advertising, and Public Relations","$2,101~$2,400","              $6 ","               $9 ","          $15 
+","          $38 ","             $52 ","             $89  ","             $100 ","            $225  ","             $525 ",Erica
+2024-02-28 10:14:33,2024-02-28 10:16:29,IP Address,128.197.29.248,100,115,True,2024-02-28 10:16:29,R_1eXlQ08rEfU81TP,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"Above $3,000","              $5 ","             $10 ","          $17 
+","          $36 ","             $52 ","            $109  ","             $100 ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 10:28:04,2024-02-28 10:34:50,IP Address,182.239.121.200,100,405,True,2024-02-28 10:34:50,R_4HiasvntcYG26yp,,,,,22.2908,114.1501,anonymous,EN,,0,5,,Taiwan,Female,18-24 years old,Wholesale Trade,"$1,201~$1,500","        $5  $4.75
+      (save $0.25) ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","      $109 $92.65
+        (save 15%) ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ","Obama "
+2024-02-28 10:40:52,2024-02-28 10:43:25,IP Address,118.166.82.9,100,152,True,2024-02-28 10:43:25,R_4Pwk80cjjCfA38R,,,,,24.8351,121.0056,anonymous,EN,,0,5,,Taiwan,Female,25-34 years old,Unemployed,$301~$600,"              $5 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","        $55 $49.5
+        (save $5.5) ","             $89  ","        $110 $104.5
+           (save 5%) ","            $250 ","             $500  ",
+2024-02-28 12:02:12,2024-02-28 12:04:03,IP Address,128.197.29.229,100,111,True,2024-02-28 12:04:04,R_5lzVyK3rAGf8SFm,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"$901~$1,200","              $5 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $38 ","       $55 $49.5
+        (save 10%) ","             $99 ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-28 12:02:00,2024-02-28 12:04:34,IP Address,128.197.29.225,100,153,True,2024-02-28 12:04:34,R_7lGgS2EfC7L2ved,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$601~$900,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","      $109 $92.65
+      (save $16.35) ","             $110  ","     $275 $233.75
+      (save $41.25) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 12:11:27,2024-02-28 12:12:29,IP Address,204.8.153.50,100,61,True,2024-02-28 12:12:30,R_7q7LCNxAS16AzTs,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,"$1,501~$1,800","              $6 ","               $9 ","          $16 
+","          $36 ","             $52 ","             $89  ","             $100 ","            $225  ","          $550  ",
+2024-02-28 12:12:24,2024-02-28 12:15:32,IP Address,128.197.29.232,100,188,True,2024-02-28 12:15:33,R_7r1Udifx8gDMwUz,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$0~$300,"              $5 ","              $10 ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $55 ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $250 ","       $550 $495 
+        (save 10%) ",
+2024-02-28 12:15:30,2024-02-28 12:18:28,IP Address,71.233.185.170,100,177,True,2024-02-28 12:18:28,R_5vL9XwPp0ebVJtv,,,,,42.2463,-70.9972,anonymous,EN,,0,10,,United States of America,Female,18-24 years old,Unemployed,"$1,801~$2,100","        $5  $4.75 
+      (save 5%) ","               $9 ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","             $89  ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 12:20:19,2024-02-28 12:22:16,IP Address,128.197.29.240,100,117,True,2024-02-28 12:22:16,R_1oBBqFEGYPsh3FH,,,,,42.3464,-71.0975,anonymous,EN,,0,10,,United States of America,Male,25-34 years old,Student,"$1,201~$1,500","              $6 ","         $10  $8.5 
+        (save $1.5) ","          $16 
+","          $36 ","             $52 ","      $109 $92.65
+        (save 15%) ","             $100 ","            $225  ","             $500  ",Alyssa is so smart
+2024-02-28 12:19:56,2024-02-28 12:23:12,IP Address,128.197.29.253,100,196,True,2024-02-28 12:23:13,R_64pjRsLF9jdvPSM,,,,,42.3464,-71.0975,anonymous,EN,,0,10,,United States of America,Male,18-24 years old,Unemployed,"$1,201~$1,500","              $5 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $40 ","       $55 $49.5
+        (save 10%) ","      $109 $92.65
+      (save $16.35) ","        $110 $104.5
+           (save 5%) ","            $225  ","             $525 ",
+2024-02-28 12:25:13,2024-02-28 12:26:52,IP Address,128.197.29.235,100,98,True,2024-02-28 12:26:52,R_3pYymjDD4EKOyxr,,,,,42.3464,-71.0975,anonymous,EN,,0,10,,United States of America,Male,25-34 years old,Student,"Above $3,000","              $6 ","             $10 ","          $17 
+","          $36 ","             $52 ","            $109  ","              $90  ","            $250 ","             $525 ",
+2024-02-28 12:54:15,2024-02-28 12:55:50,IP Address,73.68.2.182,100,94,True,2024-02-28 12:55:50,R_6cUNDYI5o7IU987,,,,,42.3498,-71.0765,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,Student,$301~$600,"              $6 ","              $10 ","          $15 
+","          $36 ","             $50 ","             $99 ","              $90  ","            $225  ","             $500  ",
+2024-02-28 14:21:14,2024-02-28 14:23:01,IP Address,71.172.46.31,100,107,True,2024-02-28 14:23:02,R_3RyYRdxXtpgwUzR,,,,,40.734,-74.0712,anonymous,EN,,0,0,,United States of America,Male,25-34 years old,"Marketing, Advertising, and Public Relations","$2,701~$3,000","        $5  $4.75 
+      (save 5%) ","         $10  $8.5 
+         (save 15%) ","          $16 
+","          $38 ","             $52 ","             $99 ","       $110 $104.5
+         (save $5.5) ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ",
+2024-02-28 14:34:52,2024-02-28 14:38:42,IP Address,175.176.50.238,100,230,True,2024-02-28 14:38:43,R_4tKnbtYYLNEDndM,,,,,13.892,122.0451,anonymous,EN,,0,0,,Philippines,Female,18-24 years old,Student,$0~$300,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $89  ","              $90  ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 15:08:28,2024-02-28 15:10:25,IP Address,128.197.29.248,100,116,True,2024-02-28 15:10:25,R_5wsEEB1yYUmL3mV,,,,,42.3464,-71.0975,anonymous,EN,,0,0,,United States of America,Female,18-24 years old,"Marketing, Advertising, and Public Relations","$901~$1,200","              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $50 ","             $89  ","             $110  ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ",
+2024-02-28 16:05:01,2024-02-28 16:09:26,IP Address,114.137.234.176,100,265,True,2024-02-28 16:09:27,R_49mHtWHN9MG3UwC,,,,,24.9889,121.3176,anonymous,EN,,0,0,,Taiwan,Male,25-34 years old,Student,$0~$300,"        $5  $4.75
+      (save $0.25) ","             $10 ","          $15 
+","          $38 ","             $52 ","            $109  ","              $90  ","            $225  ","             $500  ","It’s hard to decide when you can’t see any detailed information of the product, for example, the screen size of the monitor. Left by Amadeus C"
+2024-02-28 14:21:00,2024-02-28 16:20:47,IP Address,36.226.210.198,100,7187,True,2024-02-28 16:20:48,R_4Pf1sh2O0uRv7Et,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,"Above $3,000","              $5 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $89  ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 16:31:44,2024-02-28 16:35:53,IP Address,111.112.102.11,100,249,True,2024-02-28 16:35:53,R_1LMELEwKkganO7v,,,,,38.4736,106.2662,anonymous,EN,,0,0,,China,Female,25-34 years old,Unemployed,$0~$300,"              $6 ","               $9 ","          $17 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+      (save $16.35) ","        $110 $104.5
+           (save 5%) ","            $250 ","             $525 ",
+2024-02-28 15:37:07,2024-02-28 16:53:57,IP Address,182.239.85.19,100,4609,True,2024-02-28 16:53:57,R_4ZMZt66PcP9Drrj,,,,,22.2908,114.1501,anonymous,EN,,0,0,,China,Female,25-34 years old,Information Technology (IT) and Telecommunications,"$1,201~$1,500","              $5 ","         $10  $8.5 
+        (save $1.5) ","          $17 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","            $225  ","             $525 ",
+2024-02-28 17:42:48,2024-02-28 17:46:28,IP Address,223.104.5.187,100,219,True,2024-02-28 17:46:28,R_4nfmZElof3PPoBH,,,,,31.2222,121.4581,anonymous,EN,,0,0,,China,Female,25-34 years old,Information Technology (IT) and Telecommunications,$601~$900,"              $5 ","              $10 ","          $15 
+","          $38 ","             $55 ","             $99 ","             $110  ","            $225  ","             $500  ",No
+2024-02-28 07:51:29,2024-02-28 17:47:24,IP Address,163.19.150.151,100,35755,True,2024-02-28 17:47:26,R_4jDeasOSbZGjGnv,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Male,45-54 years old,Education,"$1,201~$1,500","              $5 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","       $55 $49.5
+        (save 10%) ","             $89  ","              $90  ","            $225  ","             $500  ",
+2024-02-28 17:56:43,2024-02-28 18:00:51,IP Address,223.141.175.138,100,247,True,2024-02-28 18:00:51,R_4K70yZ7zomowaxr,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Education,$301~$600,"              $5 ","               $9 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $89  ","             $100 ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-28 17:07:07,2024-02-28 18:07:10,IP Address,182.239.89.32,100,3603,True,2024-02-28 18:07:11,R_4oAVitD3yJF6oEJ,,,,,22.2908,114.1501,anonymous,EN,,0,0,,Hong Kong (S.A.R.),Female,18-24 years old,Information Technology (IT) and Telecommunications,"Above $3,000","              $5 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $36 ","       $55 $49.5
+        (save 10%) ","             $99 ","       $110 $104.5
+         (save $5.5) ","            $225  ","             $525 ",有些选项3个都不想选就选了最便宜/看起来最好看的。
+2024-02-28 18:11:21,2024-02-28 18:12:48,IP Address,153.33.239.27,100,87,True,2024-02-28 18:12:49,R_62z3JQkUZ258g3c,,,,,40.112,-88.2365,anonymous,EN,,0,10,,United States of America,Male,25-34 years old,Student,$0~$300,"              $6 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","      $109 $92.65
+        (save 15%) ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-28 18:17:11,2024-02-28 18:21:19,IP Address,101.128.99.122,100,248,True,2024-02-28 18:21:20,R_4mlRZzlPH92fFFD,,,,,-8.6507,115.2124,anonymous,EN,,0,0,,Indonesia,Female,25-34 years old,Information Technology (IT) and Telecommunications,$0~$300,"              $5 ","              $10 ","          $16 
+","          $40 ","        $55 $49.5
+        (save $5.5) ","             $89  ","              $90  ","            $225  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 18:22:28,2024-02-28 18:25:50,IP Address,49.216.185.68,100,201,True,2024-02-28 18:25:50,R_4Q3TTLNbcRJ0mqJ,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Other,"$1,201~$1,500","              $5 ","         $10  $8.5 
+         (save 15%) ","          $17 
+","          $36 ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","            $250 ","             $525 ",
+2024-02-28 18:22:41,2024-02-28 18:26:57,IP Address,110.28.17.244,100,255,True,2024-02-28 18:26:57,R_4iwcsykOxxZ65Ie,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,"Above $3,000","        $5  $4.75
+      (save $0.25) ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $36 ","             $52 ","      $109 $92.65
+        (save 15%) ","             $100 ","            $275  ","       $550 $495 
+        (save 10%) ",
+2024-02-28 00:49:49,2024-02-28 18:29:03,IP Address,54.178.88.189,100,63553,True,2024-02-28 18:29:03,R_4f2AqpNxRrkTQZs,,,,,35.6893,139.6899,anonymous,EN,,0,45,,China,Female,18-24 years old,Student,$301~$600,"              $5 ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","          $38 ","       $55 $49.5
+        (save 10%) ","             $89  ","             $100 ","      $275 $233.75
+        (save 15%) ","             $500  ",
+2024-02-28 18:21:28,2024-02-28 18:31:35,IP Address,42.76.234.89,100,607,True,2024-02-28 18:31:36,R_4qxkJi198C8LtBm,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Other,$601~$900,"              $6 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $36 ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ",
+2024-02-28 18:36:55,2024-02-28 18:42:28,IP Address,211.72.12.139,100,333,True,2024-02-28 18:42:29,R_4WwZeIHTZQRLga0,,,,,25.0504,121.5324,anonymous,EN,,0,20,,Taiwan,Female,25-34 years old,Education,"$901~$1,200","              $5 ","               $9 ","          $16 
+","          $38 ","             $52 ","      $109 $92.65
+        (save 15%) ","        $110 $104.5
+           (save 5%) ","            $275  ","       $550 $495 
+        (save 10%) ",so hungry
+2024-02-28 14:19:10,2024-02-28 18:45:22,IP Address,163.19.150.151,100,15971,True,2024-02-28 18:45:22,R_4eCN0R4VtX8uHOA,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,"$1,201~$1,500","              $6 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","          $40 ","             $55 ","             $99 ","       $110 $104.5
+         (save $5.5) ","      $275 $233.75
+        (save 15%) ","       $550 $495
+        (save $55) ",
+2024-02-28 19:14:03,2024-02-28 19:20:09,IP Address,101.10.4.248,100,365,True,2024-02-28 19:20:10,R_4g74bXmcdjVt3zW,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,"Professional, Scientific, and Technical Services",$301~$600,"        $5  $4.75
+      (save $0.25) ","         $10  $8.5 
+        (save $1.5) ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","     $275 $233.75
+      (save $41.25) ","             $500  ",
+2024-02-28 19:22:16,2024-02-28 19:26:27,IP Address,114.43.73.92,100,251,True,2024-02-28 19:26:28,R_4xDCuy9O9x2uYiv,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,$0~$300,"              $5 ","               $9 ","          $15 
+","          $38 ","             $52 ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $250 ","             $500  ",
+2024-02-28 05:46:23,2024-02-28 19:29:20,IP Address,42.76.153.22,100,49377,True,2024-02-28 19:29:21,R_4LYBDCa6Fiig57Q,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,$301~$600,"              $6 ","              $10 ","          $17 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $99 ","             $100 ","      $275 $233.75
+        (save 15%) ","       $550 $495 
+        (save 10%) ",
+2024-02-28 20:56:41,2024-02-28 20:59:09,IP Address,146.115.90.205,100,147,True,2024-02-28 20:59:09,R_6QQgjibDiFzPE1H,,,,,42.3634,-71.0713,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$901~$1,200","              $5 ","         $10  $8.5 
+         (save 15%) ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+      (save $16.35) ","             $100 ","     $275 $233.75
+      (save $41.25) ","       $550 $495
+        (save $55) ","Not sure what the survey was, but I believe the results are gonna be interesting- Sricharan "
+2024-02-28 22:10:51,2024-02-28 22:14:08,IP Address,174.194.128.153,100,196,True,2024-02-28 22:14:08,R_3bWOAo8TvBX4ZXj,,,,,37.78,-122.465,anonymous,EN,,0,0,,United States of America,Male,25-34 years old,Information Technology (IT) and Telecommunications,"$2,401~$2,700","              $5 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+","          $38 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $110  ","            $250 ","             $525 ",
+2024-02-28 22:30:14,2024-02-28 22:33:09,IP Address,42.73.4.102,100,174,True,2024-02-28 22:33:10,R_4UjJcUllTFDqX3r,,,,,24.9259,121.2763,anonymous,EN,,0,0,,Taiwan,Female,45-54 years old,Education,$301~$600,"              $6 ","             $10 ","          $16 
+","      $38 $36.1 
+      (save 5%) ","             $50 ","             $89  ","             $100 ","      $275 $233.75
+        (save 15%) ","             $525 ",
+2024-02-28 23:28:39,2024-02-28 23:31:51,IP Address,113.52.100.222,100,192,True,2024-02-28 23:31:53,R_4lnxcaFzHJDM37a,,,,,22.201,113.5559,anonymous,EN,,0,0,,China,Male,18-24 years old,Information Technology (IT) and Telecommunications,$301~$600,"        $5  $4.75
+      (save $0.25) ","             $10 ","          $15 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $250 ","             $525 ",
+2024-02-29 04:50:38,2024-02-29 04:53:51,IP Address,139.162.39.67,100,192,True,2024-02-29 04:53:52,R_4PeXEZaofwWyF6p,,,,,1.2868,103.8503,anonymous,EN,,0,25,,China,Male,25-34 years old,"Professional, Scientific, and Technical Services","Above $3,000","              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","       $55 $49.5
+        (save 10%) ","             $89  ","             $110  ","            $250 ","             $525 ",Kibwila
+2024-02-29 06:49:33,2024-02-29 06:53:27,IP Address,116.241.11.110,100,234,True,2024-02-29 06:53:28,R_49ACkgw1MRDLk9H,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Other,$601~$900,"        $5  $4.75
+      (save $0.25) ","               $9 ","          $15 
+","          $38 ","             $50 ","             $99 ","              $90  ","            $225  ","             $500  ",
+2024-02-29 08:30:53,2024-02-29 08:37:52,IP Address,111.243.20.10,100,418,True,2024-02-29 08:37:53,R_4pRHpGaznztcAWX,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,55-64 years old,Education,"$1,201~$1,500","        $5  $4.75 
+      (save 5%) ","               $9 ","          $15 
+","          $38 ","             $52 ","             $99 ","        $110 $104.5
+           (save 5%) ","            $225  ","             $525 ",no
+2024-02-29 10:01:45,2024-02-29 10:05:32,IP Address,37.169.10.244,100,226,True,2024-02-29 10:05:33,R_2ovg4laLjEMfjNb,,,,,48.8582,2.3387,anonymous,EN,,0,10,,France,Female,25-34 years old,Student,"$1,801~$2,100","              $6 ","               $9 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","       $55 $49.5
+        (save 10%) ","             $99 ","              $90  ","            $250 ","             $525 ",Jasmine
+2024-02-29 12:15:16,2024-02-29 12:17:52,IP Address,172.58.222.184,100,156,True,2024-02-29 12:17:53,R_7Hp16ZUfupY7lt2,,,,,42.3973,-71.0372,anonymous,EN,,0,0,,United States of America,Female,25-34 years old,Student,"$901~$1,200","              $5 ","             $10 ","      $16  $14.4 
+
+       (save $1.6) 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","             $99 ","             $100 ","            $225  ","             $500  ",Fighting
+2024-02-29 18:09:11,2024-02-29 18:11:14,IP Address,209.171.85.151,100,122,True,2024-02-29 18:11:14,R_5zTmANZOoI1UT92,,,,,43.709,-79.4057,anonymous,EN,,0,0,,Canada,Female,18-24 years old,"Arts, Entertainment, and Recreation","$1,201~$1,500","              $6 ","             $10 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+     (save $1.9) ","             $52 ","      $109 $92.65
+      (save $16.35) ","             $100 ","            $225  ","             $525 ",
+2024-02-29 18:12:03,2024-02-29 18:14:44,IP Address,72.143.202.7,100,161,True,2024-02-29 18:14:44,R_5fQc8GR7DvndgVb,,,,,43.6906,-79.4812,anonymous,EN,,0,0,,Canada,Male,25-34 years old,Student,$301~$600,"              $5 ","             $10 ","          $15 
+","          $38 ","        $55 $49.5
+        (save $5.5) ","             $99 ","        $110 $104.5
+           (save 5%) ","      $275 $233.75
+        (save 15%) ","             $525 ",N/A
+2024-02-29 18:22:51,2024-02-29 18:27:11,IP Address,61.230.9.151,100,259,True,2024-02-29 18:27:12,R_4R4ENgqQHn5RCb2,,,,,24.8065,120.9706,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Healthcare and Social Assistance,$301~$600,"              $5 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $89  ","              $90  ","            $225  ","             $525 ",
+2024-02-29 19:12:12,2024-02-29 19:16:44,IP Address,103.4.165.13,100,271,True,2024-02-29 19:16:44,R_4RJ7KjQ85zLtOIF,,,,,-6.2114,106.8446,anonymous,EN,,0,0,,Indonesia,Female,25-34 years old,"Marketing, Advertising, and Public Relations",$301~$600,"              $6 ","         $10  $8.5 
+        (save $1.5) ","          $15 
+","          $36 ","             $50 ","      $109 $92.65
+      (save $16.35) ","              $90  ","            $225  ","       $550 $495
+        (save $55) ",
+2024-02-29 11:09:30,2024-03-01 00:16:40,IP Address,101.8.12.210,100,47229,True,2024-03-01 00:16:41,R_4ffNZMynk6dppAy,,,,,22.9917,120.2148,anonymous,EN,,0,5,,Taiwan,Female,25-34 years old,Education,$601~$900,"              $5 ","               $9 ","      $16  $14.4 
+      (save 10%) 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","             $89  ","       $110 $104.5
+         (save $5.5) ","            $225  ","             $500  ",
+2024-03-03 04:00:18,2024-03-03 04:02:51,IP Address,123.195.24.199,100,153,True,2024-03-03 04:02:52,R_4sDLVWPmTc3jBp7,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,"Marketing, Advertising, and Public Relations",$601~$900,"              $6 ","               $9 ","          $17 
+","          $40 ","        $55 $49.5
+        (save $5.5) ","             $99 ","              $90  ","            $225  ","             $500  ",Jenny
+2024-03-04 07:39:42,2024-03-04 07:44:06,IP Address,111.82.11.175,100,263,True,2024-03-04 07:44:07,R_4QQw41ZFfEQQLLZ,,,,,24.144,120.6844,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Unemployed,$0~$300,"              $5 ","             $10 ","          $15 
+","      $38 $36.1 
+      (save 5%) ","             $52 ","      $109 $92.65
+        (save 15%) ","              $90  ","            $225  ","             $500  ",
+2024-03-04 09:07:43,2024-03-04 09:10:53,IP Address,112.78.84.126,100,189,True,2024-03-04 09:10:54,R_4DpRgcNXczpSnBY,,,,,25.0504,121.5324,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,"Above $3,000","              $6 ","         $10  $8.5 
+        (save $1.5) ","          $17 
+","          $36 ","        $55 $49.5
+        (save $5.5) ","             $99 ","             $100 ","            $225  ","             $500  ",Melody
+2024-03-05 03:53:32,2024-03-05 03:58:11,IP Address,111.71.216.36,100,278,True,2024-03-05 03:58:12,R_4ZEzdADACxi73wf,,,,,24.9466,121.586,anonymous,EN,,0,0,,Taiwan,Female,25-34 years old,Other,$301~$600,"              $5 ","         $10  $8.5 
+         (save 15%) ","          $16 
+","          $38 ","             $52 ","             $99 ","             $100 ","            $225  ","             $525 ",
+2024-02-27 19:24:27,2024-02-27 19:25:01,IP Address,172.56.193.217,73,33,False,2024-03-05 19:25:04,R_1swTrHP2NEHo5C9,,,,,,,anonymous,EN,,0,0,,Antigua and Barbuda,Non-binary,35-44 years old,Construction and Real Estate,$301~$600,"              $6 ","         $10  $8.5 
+         (save 15%) ","          $15 
+","          $36 ","             $50 ","             $99 ",,,,
+2024-02-27 22:10:28,2024-02-27 22:10:54,IP Address,75.67.247.242,93,26,False,2024-03-05 22:10:57,R_3f6HySQc6KxkD8N,,,,,,,anonymous,EN,true,100,0,2024-02-28 01:38:25,Algeria,Male,Under 18,Education,$301~$600,"              $5 ","             $10 ","          $15 
+","          $40 ","             $52 ","             $89  ","              $90  ","            $250 ","             $500  ",
+2024-02-27 22:26:09,2024-02-27 22:27:03,IP Address,71.235.135.182,53,53,False,2024-03-05 22:27:09,R_3fkAC1eBuXd2M1z,,,,,,,anonymous,EN,,0,0,,United States of America,Male,18-24 years old,Student,"$1,501~$1,800","              $6 ","               $9 ","      $16  $14.4 
+
+       (save $1.6) 
+",,,,,,,
+2024-02-27 23:24:49,2024-02-27 23:25:23,IP Address,73.100.10.219,38,33,False,2024-03-05 23:25:26,R_7L2aDY0WfQcdY56,,,,,,,anonymous,EN,,0,5,,Andorra,Female,18-24 years old,Education,$601~$900,,,,,,,,,,
+2024-02-27 23:25:44,2024-02-27 23:25:52,IP Address,24.218.144.66,6,7,False,2024-03-05 23:26:01,R_7F4w8pEzNGVapCF,,,,,,,anonymous,EN,true,100,5,2024-02-28 02:05:18,,,,,,,,,,,,,,,
+2024-02-27 23:29:14,2024-02-27 23:29:19,IP Address,223.143.193.114,6,5,False,2024-03-05 23:29:26,R_4ihGNQZIBc5EqSR,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:29:32,2024-02-27 23:30:27,IP Address,114.137.237.154,6,55,False,2024-03-05 23:30:28,R_4DLRoIVxQRb816c,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:30:36,2024-02-27 23:30:45,IP Address,122.116.220.226,6,9,False,2024-03-05 23:30:51,R_4LquoUBLMkVQ2at,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:38:14,2024-02-27 23:38:18,IP Address,114.34.12.9,6,3,False,2024-03-05 23:38:19,R_4BmTpCqfgGSLaiw,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:46:52,2024-02-27 23:46:59,IP Address,119.143.203.203,6,6,False,2024-03-05 23:47:00,R_4uEQzlHgdsQCT2E,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:46:31,2024-02-27 23:47:10,IP Address,223.160.218.158,6,38,False,2024-03-05 23:47:13,R_4izrwowGfnjffhs,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:47:41,2024-02-27 23:47:49,IP Address,42.72.26.123,6,7,False,2024-03-05 23:47:51,R_4HdxlK8wWbve0fT,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:52:51,2024-02-27 23:53:05,IP Address,223.104.122.35,6,13,False,2024-03-05 23:53:06,R_4P1ooSRKQVRMywu,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-27 23:57:16,2024-02-27 23:57:21,IP Address,223.138.235.99,6,5,False,2024-03-05 23:57:22,R_4Y0HsI9v4M9KW41,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 00:01:09,2024-02-28 00:01:16,IP Address,75.67.247.242,6,6,False,2024-03-06 00:01:18,R_7UMHVTF1pNHMn1n,,,,,,,anonymous,EN,true,90,5,2024-02-28 05:10:37,,,,,,,,,,,,,,,
+2024-02-28 00:31:16,2024-02-28 00:31:22,IP Address,42.78.60.226,6,5,False,2024-03-06 00:31:23,R_42PwmqdubF3l5y9,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 00:35:19,2024-02-28 00:35:39,IP Address,124.64.16.203,6,19,False,2024-03-06 00:35:40,R_4Gl9AsStpYRIPqN,,,,,,,qr,EN,,0,25,,,,,,,,,,,,,,,,
+2024-02-28 00:43:31,2024-02-28 00:43:41,IP Address,210.72.19.171,6,10,False,2024-03-06 00:43:42,R_4VxtYcNTQN7ysdb,,,,,,,anonymous,EN,,0,25,,,,,,,,,,,,,,,,
+2024-02-28 00:56:44,2024-02-28 00:57:24,IP Address,118.189.49.186,6,39,False,2024-03-06 00:57:26,R_41msfE46OTAYqH2,,,,,,,qr,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 00:59:37,2024-02-28 00:59:51,IP Address,111.83.150.44,6,13,False,2024-03-06 00:59:53,R_4KeXb4WW7eWQTsf,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 01:34:10,2024-02-28 01:34:18,IP Address,162.196.91.68,6,7,False,2024-03-06 01:34:19,R_52JbKD6kx1WDbk6,,,,,,,anonymous,EN,,0,5,,,,,,,,,,,,,,,,
+2024-02-28 02:33:36,2024-02-28 02:33:41,IP Address,42.73.215.63,6,5,False,2024-03-06 02:33:43,R_4b5Z7Q7ZQsBO7vz,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 02:49:57,2024-02-28 02:50:02,IP Address,46.232.121.63,6,5,False,2024-03-06 02:50:06,R_4bIvIRIWZq6zjt9,,,,,,,anonymous,EN,,0,75,,,,,,,,,,,,,,,,
+2024-02-28 03:15:34,2024-02-28 03:15:43,IP Address,1.175.106.178,6,9,False,2024-03-06 03:15:45,R_4dAEPrQBs5KxkqK,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 04:05:21,2024-02-28 04:05:46,IP Address,38.42.194.185,6,25,False,2024-03-06 04:05:48,R_60Ixtgnr5n5MY7L,,,,,,,anonymous,EN,true,100,0,2024-02-28 10:58:47,,,,,,,,,,,,,,,
+2024-02-28 04:06:17,2024-02-28 04:06:19,IP Address,24.61.229.7,6,2,False,2024-03-06 04:06:20,R_68J2Kh7XZzGn5W1,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 05:13:05,2024-02-28 05:13:10,IP Address,221.234.144.169,6,5,False,2024-03-06 05:13:16,R_13BxaZJBZ1OJ66h,,,,,,,anonymous,EN,true,100,0,2024-02-28 10:33:56,,,,,,,,,,,,,,,
+2024-02-28 05:13:29,2024-02-28 05:13:52,IP Address,42.73.132.99,6,23,False,2024-03-06 05:13:56,R_4EMrKTuJtcDAeJm,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 05:46:50,2024-02-28 05:48:38,IP Address,42.76.153.22,75,108,False,2024-03-06 05:48:40,R_4CZCTpnwZajGBN6,,,,,,,anonymous,EN,,0,0,,Taiwan,Female,18-24 years old,Student,$301~$600,"              $5 ","              $10 ","          $17 
+","          $36 ","             $52 ","             $99 ",,,,
+2024-02-28 06:01:17,2024-02-28 06:01:35,IP Address,1.169.212.111,6,17,False,2024-03-06 06:01:37,R_4ZEkpDu8PxVSI1j,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 07:23:57,2024-02-28 07:24:21,IP Address,204.8.153.51,38,24,False,2024-03-06 07:25:33,R_11YBxPnUsPWGcKZ,,,,,,,anonymous,EN,true,100,0,2024-02-28 02:11:07,United States of America,Female,25-34 years old,Student,"$1,201~$1,500",,,,,,,,,,
+2024-02-28 07:31:32,2024-02-28 07:31:40,IP Address,133.165.189.43,6,8,False,2024-03-06 07:31:41,R_4Unim0dw18ESgpz,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 07:33:49,2024-02-28 07:36:09,IP Address,42.73.139.5,38,139,False,2024-03-06 07:36:10,R_4BW4AXRG6WCEiEF,,,,,,,anonymous,EN,,0,0,,Taiwan,Male,18-24 years old,"Arts, Entertainment, and Recreation","$901~$1,200",,,,,,,,,,
+2024-02-28 09:05:11,2024-02-28 09:06:47,IP Address,111.243.20.10,6,95,False,2024-03-06 09:06:48,R_4GJsNWtmZOS74pX,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
+2024-02-28 09:27:35,2024-02-28 09:27:44,IP Address,111.82.22.90,6,9,False,2024-03-06 09:27:49,R_44RhcBUGyoA2Rcl,,,,,,,anonymous,EN,,0,0,,,,,,,,,,,,,,,,
